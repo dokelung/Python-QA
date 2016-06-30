@@ -1,4 +1,4 @@
-# 為什麼 json 的 key只能是 string ?
+# 為什麼json的key只能是string ?
 
 ## 問題
 
