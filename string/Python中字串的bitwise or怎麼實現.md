@@ -13,6 +13,8 @@ a bitwise or b 得到 `1000111001`
 
 除了一位一位的處理，有沒有什麼方便的方法?
 
+問題出自 [segmentfault](https://segmentfault.com/q/1010000005097274/a-1020000005099056), by [ffaniu](https://segmentfault.com/u/ffaniu)
+
 ## 回答
 
 **代碼**:
