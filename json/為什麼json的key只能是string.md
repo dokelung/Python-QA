@@ -1,3 +1,5 @@
+# 為什麼 json 的 key只能是 string ?
+
 ## 問題
 
 在 Python 中，字典的 key 可以是任意 immutable 對象，但 json 的 key 卻只能是 string。
@@ -45,13 +47,13 @@
 
 如果你嘗試使用過 javascript 去建立一個 object，你會發現，以下的敘述語句是行得通的:
 
-```
+```javascript
 var obj = {hello:1, world:2}
 ```
 
 這相等於:
 
-```
+```javascript
 var obj = {"hello":1, "world":2}
 ```
 
@@ -74,10 +76,11 @@ var obj = {"hello":1, "world":2}
 **總之，簡單而明確的規則不是很不錯嗎!**
 
 參考資料:
-[in JSON, Why is each name quoted?][3]
-[Is there any practical reason to use quoted strings for JSON keys?][4]
-[Converting a JSON Text to a JavaScript Object][5]
-[Object Equality in JavaScript][6]
+
+1. [in JSON, Why is each name quoted?][3]
+2. [Is there any practical reason to use quoted strings for JSON keys?][4]
+3. [Converting a JSON Text to a JavaScript Object][5]
+4. [Object Equality in JavaScript][6]
 
 ----------
 (以下是題外話)
@@ -96,7 +99,7 @@ var obj = {"hello":1, "world":2}
 
 其實並不盡然，我們看一個例子:
 
-```
+```python
 >>> a = ([1, 2, 3], 4, 5)
 >>> hash(a)
 Traceback (most recent call last):
@@ -117,7 +120,7 @@ TypeError: unhashable type: 'list'
 
 所以其實有些 tuple 可以當作字典的鍵:
 
-```
+```python
 >>> b = (1,2,3)
 >>> dic[b] = 0
 ```
