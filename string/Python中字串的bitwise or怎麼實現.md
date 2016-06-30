@@ -1,4 +1,4 @@
-# Python中字串的bitwise or怎麼實現？
+# Python 中字串的 bitwise or 怎麼實現？
 
 ## 問題
 
