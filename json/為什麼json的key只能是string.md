@@ -23,17 +23,17 @@
 
 首先你可以看到 [json.org][1] 中對於 json **object** 和 **string** 的定義:
 
-> **object**: An object is an unordered set of name/value pairs. An object begins with { (left brace) and ends with } (right brace). Each name is followed by : (colon) and the name/value pairs are separated by , (comma).
+* **object**: An object is an unordered set of name/value pairs. An object begins with { (left brace) and ends with } (right brace). Each name is followed by : (colon) and the name/value pairs are separated by , (comma).
 
-> **string**: A string is a sequence of zero or more Unicode characters, `wrapped in double quotes`, using backslash escapes. A character is represented as a single character string. A string is very much like a C or Java string.
+* **string**: A string is a sequence of zero or more Unicode characters, `wrapped in double quotes`, using backslash escapes. A character is represented as a single character string. A string is very much like a C or Java string.
 
 同時我們可以在 [The application/json Media Type for JavaScript Object Notation (JSON)][2] 中看到以下的敘述:
 
-> An object is an unordered collection of zero or more name/value pairs, where `a name is a string` and a value is a string, number, boolean, null, object, or array.
+> An object is an unordered collection of zero or more name/value pairs, where **a name is a string** and a value is a string, number, boolean, null, object, or array.
 
 我們可以清楚了解到，json 用來表述 object 用 string (雙引號夾住的字符集) 當作 key 的唯一選擇。
 
-這說明了在 json 的定義或是 spec 中是明顯規範了 key 的型態跟表達方式，這可能出於`某些設計哲學上的考量`，也可能只是`某些實作上的選擇`，當然我們可以去追究當中的意涵，但是:
+這說明了在 json 的定義或是 spec 中是明顯規範了 key 的型態跟表達方式，這可能出於 **某些設計哲學上的考量**，也可能只是 **某些實作上的選擇**，當然我們可以去追究當中的意涵，但是:
 
 > 對於一般的使用者而言，能夠認識到這一點以避免設計上的問題應該是更為重要的。
 
@@ -43,7 +43,7 @@
 
 當然這可能不能滿足我們的求知欲，所以我試圖提出一些觀點(還有真正大師的觀點)
 
->P.S. 我在這裡並不打算說服你，因為我自認為我完全不是個 json 專家(笑)。
+> P.S. 我在這裡並不打算說服你，因為我自認為我完全不是個 json 專家(笑)。
 
 如果你嘗試使用過 javascript 去建立一個 object，你會發現，以下的敘述語句是行得通的:
 
@@ -67,7 +67,7 @@ var obj = {"hello":1, "world":2}
 
 > At the time, I was trying to convince people: yeah, you can write applications in JavaScript, it's actually going to work and it's a good language. I didn't want to say, then, at the same time: and look at this really stupid thing they did! So I decided, instead, let's just quote the keys. That way, we don't have to tell anybody about how whack it is. That's why, to this day, keys are quoted in JSON.
 
-總而言之，大意是說，為了避免 `json 因為要避免使用它的語言發生問題` 所導致的過度複雜的標準(比如說考慮所有關於那個語言的關鍵字在作為 key 的情況)，那乾脆用個簡單的法則來解決所有可能的意外，那就是加上雙引號拉。
+總而言之，大意是說，為了避免 **json 因為要避免使用它的語言發生問題** 所導致的過度複雜的標準(比如說考慮所有關於那個語言的關鍵字在作為 key 的情況)，那乾脆用個簡單的法則來解決所有可能的意外，那就是加上雙引號拉。
 
 以上不知道有沒有讓你有一些想法呢? 其實很多人覺得只能使用 string key 是為了不同語言使用 json 上面的穩定性我覺得也很有道理，我覺得能找個理由說服自己就很不錯了，畢竟怎麼理解他這樣設計可以有千千萬萬種解讀，至於真正的原因，也就只有他的創造者或標準的維護者知道了。
 
