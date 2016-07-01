@@ -1,4 +1,4 @@
-## 目錄
+## Python-QA 目錄
 
 * string
  * [Python 中字串的 bitwise or 怎麼實現?](string/Python中字串的bitwise or怎麼實現.md)
