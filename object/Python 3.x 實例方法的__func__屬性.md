@@ -1,8 +1,8 @@
-# Python 3.x 實例方法的 __func__ 屬性
+# Python 3.x 實例方法的 `__func__`屬性
 
 ## 問題
 
-看 Python 3.x 的文檔，涉及到實例方法特殊屬性的內容，有這麽一段話描述 instance method 的 __func__ 屬性：
+看 Python 3.x 的文檔，涉及到實例方法特殊屬性的內容，有這麽一段話描述 instance method 的 `__func__` 屬性：
 
 >When an instance method object is created by retrieving a user-defined function object from a class via one of its instances, its self attribute is the instance, and the method object is said to be bound. The new method’s func attribute is the original function object.
 
