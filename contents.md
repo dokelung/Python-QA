@@ -4,7 +4,7 @@
  * [Python 中字串的 bitwise or 怎麼實現?](string/Python中字串的bitwise or怎麼實現.md)
  * [給定一個字串，回傳所有的可能組合](string/給定一個字串，回傳所有的可能組合.md)
 
-* objects
+* object
  * [Python 3.x 實例方法的__func__屬性](object/Python 3.x 實例方法的__func__屬性.md)
 
 * json
