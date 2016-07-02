@@ -36,7 +36,7 @@ C:\Program Files (x86)\Python35-32\python.exe
 
 然後用 `pip` 安裝的 Pyinstaller 的 script 裡面對於路徑上的空白沒有正確的用 **引號** 處理好:
 
-```
+```python
 #!C:\Program Files (x86)\Python35-32\python.exe  <-- 這個 shebang line 有問題，因為空白
 # EASY-INSTALL-ENTRY-SCRIPT: 'PyInstaller==3.1.1','console_scripts','pyinstaller'
 ```
@@ -45,7 +45,7 @@ C:\Program Files (x86)\Python35-32\python.exe
 
 有一些 workaround 的方式可以解決，第一個是你直接去 pyinstaller 的 script 裡面利用引號把空白問題給搞定(在 Python 目錄下的 Script 子目錄下):
 
-```
+```python
 #!"C:\Program Files (x86)\Python35-32\python.exe"  <-- 這個 shebang line 有問題，因為空白，我們補上前後的引號
 # EASY-INSTALL-ENTRY-SCRIPT: 'PyInstaller==3.1.1','console_scripts','pyinstaller'
 ```
