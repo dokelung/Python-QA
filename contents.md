@@ -54,6 +54,9 @@
 * django
  * [django 如何一個 url 綁定多個視圖](django/django如何一個url綁定多個視圖.md)
 
+* beautiful soup
+ * [刪除xml文件的指定標籤](bs/刪除xml文件的指定標籤.md)
+
 ## 演算法
 
 * algorithm
