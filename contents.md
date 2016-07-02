@@ -11,6 +11,9 @@
 
 * iteration
  * [如何將列表中的元組整個迭代出](iteration/如何將列表中的元組整個迭代出來.md) 
+
+* sort
+ * [Python排序問題](sort/Python排序問題.md) 
  
 * file
  * [怎樣合併文檔中有重複部分的行](file/怎樣合併文檔中有重複部分的行.md)
