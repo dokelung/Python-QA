@@ -62,6 +62,9 @@
  * [tk 程序中出現問題](standard_lib/tk程序中出現問題.md)
  * [計算時間差](standard_lib/計算時間差.md)
 
+* pip
+ * [pip 無法在安裝 pyinstaller](pip/pip無法在安裝pyinstaller.md) 
+
 * django
  * [django 如何一個 url 綁定多個視圖](django/django如何一個url綁定多個視圖.md)
 
