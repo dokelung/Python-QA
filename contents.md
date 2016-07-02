@@ -15,6 +15,9 @@
 * iteration(iterable/iterater/generator)
  * [如何將列表中的元組整個迭代出](iteration/如何將列表中的元組整個迭代出來.md) 
 
+* functional programming style(map/filter/reduce)
+ * [sum 函數中可以使用條件語句嗎?](fp/sum函數中可以使用條件語句嗎.md) 
+
 * sort
  * [Python排序問題](sort/Python排序問題.md)
  * [sorted函數中key參數的作用原理](sort/sorted函數中key參數的作用原理.md)
