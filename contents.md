@@ -57,6 +57,9 @@
 
 ## 模組與套件
 
+* import
+ * [通過哪個函數能查看 Python 文件中匯入了哪些模組](import/通過哪個函數能查看Python文件中匯入了哪些模組.md) 
+
 * standard library
  * [os.mkdir 和 os.makedirs 的區別](standard_lib/os.mkdir和os.makedirs的區別.md) 
  * [tk 程序中出現問題](standard_lib/tk程序中出現問題.md)
