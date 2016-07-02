@@ -1,4 +1,4 @@
-# pip 無法在命令行運行
+# pip 無法在安裝 pyinstaller
 
 ## 問題
 
