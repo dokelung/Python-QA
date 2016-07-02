@@ -14,6 +14,7 @@
  
 * file
  * [怎樣合併文檔中有重複部分的行](file/怎樣合併文檔中有重複部分的行.md)
+ * [Python處理文本信息](file/Python處理文本信息.md)
 
 * json
  * [為什麼 json 的 key 只能是 string?](json/為什麼json的key只能是string.md)
