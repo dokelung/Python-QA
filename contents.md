@@ -47,6 +47,7 @@
  * [Python如何實現並行查找關鍵字所在的行](file/Python如何實現並行查找關鍵字所在的行.md)
  * [文本格式轉換代碼優化](file/文本格式轉換代碼優化.md)
  * [使用 Python 如何按行數拆分文件](file/使用Python如何按行數拆分文件.md)
+ * [Python 處理一個求和運算](file/Python處理一個求和運算.md)
 
 * json
  * [為什麼 json 的 key 只能是 string?](json/為什麼json的key只能是string.md)
