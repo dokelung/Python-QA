@@ -28,7 +28,7 @@
 * functional programming style(map/filter/reduce)
  * [sum 函數中可以使用條件語句嗎?](fp/sum函數中可以使用條件語句嗎.md) 
 
-### 檔案與資料處理
+## 檔案與資料處理
  
 * file
  * [怎樣合併文檔中有重複部分的行](file/怎樣合併文檔中有重複部分的行.md)
