@@ -8,6 +8,9 @@
 * object
  * [Python 3.x 實例方法的`__func__`屬性](object/Python 3.x 實例方法的__func__屬性.md)
  * [Python 如何通過類方法創建實例方法](object/Python如何通過類方法創建實例方法.md)
+
+* iteration
+ * [如何將列表中的元組整個迭代出](iteration/如何將列表中的元組整個迭代出來.md) 
  
 * file
  * [怎樣合併文檔中有重複部分的行](file/怎樣合併文檔中有重複部分的行.md)
