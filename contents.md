@@ -18,6 +18,7 @@
 
 * iteration(iterable/iterater/generator)
  * [如何將列表中的元組整個迭代出](iteration/如何將列表中的元組整個迭代出來.md)
+ * [一個求質(素)數的編程題](iteration/一個求質(素)數的編程題.md)
 
 * functional programming style(map/filter/reduce)
  * [sum 函數中可以使用條件語句嗎?](fp/sum函數中可以使用條件語句嗎.md)
