@@ -1,26 +1,26 @@
 ## Python-QA 目錄
 
 
-### 內建型態
+## 內建型態
 
 * string
  * [Python 中字串的 bitwise or 怎麼實現?](string/Python中字串的bitwise or怎麼實現.md)
  * [給定一個字串，回傳所有的可能組合](string/給定一個字串，回傳所有的可能組合.md)
  * [如何讓列表所有元素首字母變大寫](string/如何讓列表所有元素首字母變大寫.md)
 
-### 內建函式
+## 內建函式
 
 * sort
  * [Python排序問題](sort/Python排序問題.md)
  * [sorted函數中key參數的作用原理](sort/sorted函數中key參數的作用原理.md)
 
-### 物件導向程式設計
+## 物件導向程式設計
 
 * object(class/object)
  * [Python 3.x 實例方法的`__func__`屬性](object/Python 3.x 實例方法的__func__屬性.md)
  * [Python 如何通過類方法創建實例方法](object/Python如何通過類方法創建實例方法.md)
 
-### 迭代
+## 迭代
 
 * iteration(iterable/iterater/generator)
  * [如何將列表中的元組整個迭代出](iteration/如何將列表中的元組整個迭代出來.md) 
@@ -50,7 +50,7 @@
 * django
  * [django 如何一個 url 綁定多個視圖](django/django如何一個url綁定多個視圖.md)
 
-### 演算法
+## 演算法
 
 * algorithm
  * [Subset-Sum Problem](algorithm/subset_sum_problem.md) 
