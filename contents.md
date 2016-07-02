@@ -9,6 +9,7 @@
 
 * list
  * [遍歷二維串列最外圈](list/遍歷二維串列最外圈.md)
+ * [list 使用 append 最後為什麼會把前面的元素都修改掉](list/list使用append最後為什麼會把前面的元素都修改掉.md)
 
 * collections
  * [會 php 和 Python 的大神進來幫忙轉換一段代碼](collections/會php和python的大神進來幫忙轉換一段代碼.md)
