@@ -24,6 +24,9 @@
 
 ## 物件導向程式設計
 
+* dunder(magic function)
+ * [自己寫的數據類型使用print無法輸出每個元素](dunder/自己寫的數據類型使用print無法輸出每個元素.md) 
+
 * object(class/object)
  * [Python 3.x 實例方法的`__func__`屬性](object/Python 3.x 實例方法的__func__屬性.md)
  * [Python 如何通過類方法創建實例方法](object/Python如何通過類方法創建實例方法.md)
