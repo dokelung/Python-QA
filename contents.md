@@ -35,3 +35,6 @@
 
 * algorithm
  * [Subset-Sum Problem](algorithm/subset_sum_problem.md) 
+
+* django
+ * [django 如何一個 url 綁定多個視圖](django/django如何一個url綁定多個視圖.md) 
