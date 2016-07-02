@@ -75,8 +75,11 @@
 * beautiful soup
  * [刪除xml文件的指定標籤](bs/刪除xml文件的指定標籤.md)
 
-## 演算法
+## 演算法與科學計算
 
 * algorithm
  * [Subset-Sum Problem](algorithm/subset_sum_problem.md)
  * [字串 list 排序(七橋問題)](algorithm/字串list排序(七橋問題).md)
+
+* math
+ * [Python怎麼通過input獲取矩陣](math/Python怎麼通過input獲取矩陣.md)
