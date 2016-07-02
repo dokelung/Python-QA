@@ -2,6 +2,7 @@
 
 * standard library
  * [os.mkdir 和 os.makedirs 的區別](standard_lib/os.mkdir和os.makedirs的區別.md) 
+ * [tk 程序中出現問題](standard_lib/tk程序中出現問題.md)
 
 * string
  * [Python 中字串的 bitwise or 怎麼實現?](string/Python中字串的bitwise or怎麼實現.md)
