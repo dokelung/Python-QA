@@ -21,8 +21,7 @@
 
 * json
  * [為什麼 json 的 key 只能是 string?](json/為什麼json的key只能是string.md)
- * [Python如何合併批量輸出json](json/Python如何合併批量輸出json.md)
+ * [Python 如何合併批量輸出 json](json/Python如何合併批量輸出json.md)
 
 * algorithm
  * [Subset-Sum Problem](algorithm/subset_sum_problem.md) 
- 
