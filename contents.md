@@ -53,4 +53,4 @@
 ## 演算法
 
 * algorithm
- * [Subset-Sum Problem](algorithm/subset_sum_problem.md) 
+ * [Subset-Sum Problem](algorithm/subset_sum_problem.md)
