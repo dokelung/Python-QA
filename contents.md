@@ -1,6 +1,5 @@
 ## Python-QA 目錄
 
-
 ## 內建型態
 
 * string
@@ -47,6 +46,7 @@
 * standard library
  * [os.mkdir 和 os.makedirs 的區別](standard_lib/os.mkdir和os.makedirs的區別.md) 
  * [tk 程序中出現問題](standard_lib/tk程序中出現問題.md)
+ * [計算時間差](standard_lib/計算時間差.md)
 
 * django
  * [django 如何一個 url 綁定多個視圖](django/django如何一個url綁定多個視圖.md)
