@@ -72,4 +72,4 @@
 
 * algorithm
  * [Subset-Sum Problem](algorithm/subset_sum_problem.md)
- * [字串 list 排序(七橋問題)](Python-QA/algorithm/字串list排序(七橋問題).md)
+ * [字串 list 排序(七橋問題)](algorithm/字串list排序(七橋問題).md)
