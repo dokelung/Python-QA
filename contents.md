@@ -19,6 +19,7 @@
  * [怎樣合併文檔中有重複部分的行](file/怎樣合併文檔中有重複部分的行.md)
  * [Python處理文本信息](file/Python處理文本信息.md)
  * [Python如何實現並行查找關鍵字所在的行](file/Python如何實現並行查找關鍵字所在的行.md)
+ * [文本格式轉換代碼優化](file/文本格式轉換代碼優化.md)
 
 * json
  * [為什麼 json 的 key 只能是 string?](json/為什麼json的key只能是string.md)
