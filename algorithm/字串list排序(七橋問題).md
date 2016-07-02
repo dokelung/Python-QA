@@ -1,16 +1,16 @@
-# 字符串數組排序(七橋問題)
+# 字串 list 組排序(七橋問題)
 
 ## 問題
 
-給定字符串數組，要求進行判斷是否存在以下序列
+給定字串 list，要求進行判斷是否存在以下序列
 
-前一個字符串末尾字符等於後一個字符串首字符。
+前一個字串末尾字元等於後一個字串首字元。
 
 例如：
 
 ```python
-{ "ab" , "de" , "bc" , "cd" } #此字符串數組滿足條件
-{ "ab" , "bc" , "cd" , "fg" } #此字符串數組不滿足條件
+{ "ab" , "de" , "bc" , "cd" } #此字串list滿足條件
+{ "ab" , "bc" , "cd" , "fg" } #此字串list不滿足條件
 ```
 
 問題出自 [segmentfault](https://segmentfault.com/q/1010000005152540/a-1020000005595508), by [nbandroid](https://segmentfault.com/u/nbandroid)
