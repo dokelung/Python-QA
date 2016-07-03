@@ -15,7 +15,10 @@
  * [會 php 和 Python 的大神進來幫忙轉換一段代碼](collections/會php和python的大神進來幫忙轉換一段代碼.md)
  * [Top K Frequent Elements](collections/Top_K_Frequent_Elements.md)
 
-## 內建函式
+## 函式
+
+* len
+ * [怎麼判斷函數或方法多次使用是否需要定義臨時變量](len/怎麼判斷函數或方法多次使用是否需要定義臨時變量.md) 
 
 * sort
  * [Python排序問題](sort/Python排序問題.md)
