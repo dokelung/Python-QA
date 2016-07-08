@@ -1,4 +1,4 @@
-# Python 如何合併list of lists
+# Python 如何合併 list of lists
 
 ## 問題
 
