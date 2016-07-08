@@ -96,3 +96,8 @@
 
 * math
  * [Python怎麼通過input獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
+
+## Python 實作與開發環境
+
+* IDE (集成開發環境)
+ * [Python 能否在保存程序變量情況下啟動控制台](questions/ide/Python能否在保存程序變量情況下啟動控制台.md) 
