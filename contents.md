@@ -33,6 +33,9 @@
 * functional programming style(map/filter/reduce)
  * [sum 函數中可以使用條件語句嗎?](fp/sum函數中可以使用條件語句嗎.md)
 
+* error handling
+ * [Python 如何優雅的處理大量異常語句](error/Python如何優雅的處理大量異常語句.md) 
+
 ## 物件導向程式設計
 
 * dunder(magic function)
