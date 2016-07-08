@@ -54,7 +54,7 @@
  * [文本格式轉換代碼優化](file/文本格式轉換代碼優化.md)
  * [使用 Python 如何按行數拆分文件](file/使用Python如何按行數拆分文件.md)
  * [Python 處理一個求和運算](file/Python處理一個求和運算.md)
- * [Python如何向文件最開始插入一個字串](file/Python如何向文件最開始插入一個字串.md)(待補充)
+ * [Python 如何向文件最開始插入一個字串](file/Python如何向文件最開始插入一個字串.md)(待補充)
 
 * json
  * [為什麼 json 的 key 只能是 string?](json/為什麼json的key只能是string.md)
