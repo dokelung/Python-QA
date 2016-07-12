@@ -56,6 +56,7 @@
  * [使用 Python 如何按行數拆分文件](questions/file/使用Python如何按行數拆分文件.md)
  * [Python 處理一個求和運算](questions/file/Python處理一個求和運算.md)
  * [Python 如何向文件最開始插入一個字串](questions/file/Python如何向文件最開始插入一個字串.md)(待補充)
+ * [用 Python 實現類似grep的功能](questions/file/用Python實現類似grep的功能.md)
 
 * json
  * [為什麼 json 的 key 只能是 string?](questions/json/為什麼json的key只能是string.md)
