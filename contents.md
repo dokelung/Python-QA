@@ -75,6 +75,7 @@
  * [os.mkdir 和 os.makedirs 的區別](questions/standard_lib/os.mkdir和os.makedirs的區別.md) 
  * [tk 程序中出現問題](questions/standard_lib/tk程序中出現問題.md)
  * [計算時間差](questions/standard_lib/計算時間差.md)
+ * [Python timeit 測量代碼運行時間問題](questions/standard_lib/Python timeit測量代碼運行時間問題.md)
 
 * pip
  * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md) 
