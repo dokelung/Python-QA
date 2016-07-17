@@ -80,12 +80,16 @@
 * pip
  * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md) 
 
+## WEB
+
 * django
  * [django 如何一個 url 綁定多個視圖](questions/django/django如何一個url綁定多個視圖.md)
  * [django 模版中變量引用變量被當作字符串處理而不是變量值](questions/django/django模版中變量引用變量被當作字符串處理而不是變量值.md)
 
 * flask/jinja
  * [jinja2 macro caller](questions/jinja/jinja2_macro_caller.md) 
+
+## 爬蟲
 
 * beautiful soup
  * [刪除xml文件的指定標籤](questions/bs/刪除xml文件的指定標籤.md)
