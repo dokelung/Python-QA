@@ -78,7 +78,8 @@
  * [Python timeit 測量代碼運行時間問題](questions/standard_lib/Python timeit測量代碼運行時間問題.md)
 
 * pip
- * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md) 
+ * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md)
+ * [Python 代碼怎麼打包](questions/pip/python代碼怎麼打包.md)
 
 * others
  * [中文按照拼音排序](questions/others/中文按照拼音排序.md)
