@@ -96,6 +96,7 @@
 * algorithm
  * [Subset-Sum Problem](questions/algorithm/subset_sum_problem.md)
  * [字串 list 排序(七橋問題)](questions/algorithm/字串list排序(七橋問題).md)
+ * [使用字串為整數編碼](questions/algorithm/使用字串為整數編碼.md)
 
 * math
  * [Python怎麼通過input獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
