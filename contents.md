@@ -92,7 +92,7 @@
 ## 爬蟲
 
 * beautiful soup
- * [刪除xml文件的指定標籤](questions/bs/刪除xml文件的指定標籤.md)
+ * [刪除 xml 文件的指定標籤](questions/bs/刪除xml文件的指定標籤.md)
  * [Python 爬蟲 beautifulsoup string 抓取問題](questions/bs/python爬蟲beautifulsoup string抓取問題.md)
 
 ## 演算法與科學計算
