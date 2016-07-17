@@ -80,6 +80,9 @@
 * pip
  * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md) 
 
+* others
+ * [中文按照拼音排序](questions/others/中文按照拼音排序.md)
+
 ## WEB
 
 * django
