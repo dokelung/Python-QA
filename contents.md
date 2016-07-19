@@ -45,6 +45,7 @@
 * object(class/object)
  * [Python 3.x 實例方法的`__func__`屬性](questions/object/Python 3.x 實例方法的__func__屬性.md)
  * [Python 如何通過類方法創建實例方法](questions/object/Python如何通過類方法創建實例方法.md)
+ * [Python 的 staticmethod 在什麼情況下用](questions/object/Python的staticmethod在什麼情況下用.md)
 
 ## 檔案與資料處理
  
