@@ -26,6 +26,9 @@
 
 ## 控制流程與迭代
 
+* if(if/elif/else)
+ * [if 語句的 and or 運算](questions/if/if 語句的 and or 運算.md) 
+
 * iteration(iterable/iterater/generator)
  * [如何將列表中的元組整個迭代出](questions/iteration/如何將列表中的元組整個迭代出來.md)
  * [一個求質(素)數的編程題](questions/iteration/一個求質(素)數的編程題.md)
