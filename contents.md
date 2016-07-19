@@ -66,6 +66,7 @@
 * cvs
  * [csv 模塊生成 CSV 文件問題(0字頭數字缺失與漢字亂碼)](questions/csv/csv模塊生成CSV文件問題(0字頭數字缺失與漢字亂碼).md)
  * [操作 csv 文件寫入順序不對](questions/csv/操作csv文件寫入順序不對.md)
+ * [如何用 python 刪除 csv 文件中的某一列](questions/csv/如何用python刪除csv文件中的某一列.md)
 
 ## 模組與套件
 
