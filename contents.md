@@ -123,4 +123,7 @@
 ## Python 實作與開發環境
 
 * IDE (集成開發環境)
- * [Python 能否在保存程序變量情況下啟動控制台](questions/ide/Python能否在保存程序變量情況下啟動控制台.md) 
+ * [Python 能否在保存程序變量情況下啟動控制台](questions/ide/Python能否在保存程序變量情況下啟動控制台.md)
+
+* virtualenv
+ * [如何在 ubuntu14.04 安裝 python3.5](questions/virtualenv/如何在ubuntu14.04安裝python3.5.md) 
