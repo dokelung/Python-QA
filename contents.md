@@ -113,6 +113,7 @@
  * [字串 list 排序(七橋問題)](questions/algorithm/字串list排序(七橋問題).md)
  * [使用字串為整數編碼](questions/algorithm/使用字串為整數編碼.md)
  * [分群問題](questions/algorithm/分群問題.md)
+ * [找出所有組合-笛卡爾積問題](questions/algorithm/找出所有組合-笛卡爾積問題.md)
 
 * math
  * [Python怎麼通過input獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
