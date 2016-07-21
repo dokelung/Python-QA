@@ -34,6 +34,7 @@
  * [一個求質(素)數的編程題](questions/iteration/一個求質(素)數的編程題.md)
  * [Python 如何合併 list of lists](questions/iteration/Python 如何合併 list of lists.md)(待補充)
  * [如何從一個複雜的結構中優雅的提取出一列數據](questions/iteration/如何從一個複雜的結構中優雅的提取出一列數據.md)
+ * [如何 把tuple 轉成 dictionary](questions/iteration/如何把tuple轉成dictionary.md)
 
 * functional programming style(map/filter/reduce)
  * [sum 函數中可以使用條件語句嗎?](questions/fp/sum函數中可以使用條件語句嗎.md)
