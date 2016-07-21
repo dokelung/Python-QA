@@ -97,6 +97,7 @@
 * django
  * [django 如何一個 url 綁定多個視圖](questions/django/django如何一個url綁定多個視圖.md)
  * [django 模版中變量引用變量被當作字符串處理而不是變量值](questions/django/django模版中變量引用變量被當作字符串處理而不是變量值.md)
+ * [網頁根目錄改成子目錄後文件如何調用](questions/django/網頁根目錄改成子目錄後文件如何調用.md)
 
 * flask/jinja
  * [jinja2 macro caller](questions/jinja/jinja2_macro_caller.md) 
