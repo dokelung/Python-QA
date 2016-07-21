@@ -56,7 +56,7 @@ print(lst)
 [{'brand': 'b1', 'area': 'a1', 'question': 'q1', 'price': 'p1'}, {'brand': 'b2', 'area': 'a2', 'question': 'q2', 'price': 'p2'}, {'brand': 'b3', 'area': 'a3', 'question': 'q3', 'price': 'p3'}]
 ```
 
-改良(by [hsfzxjy](https://segmentfault.com/u/hsfzxjy):
+改良(by [hsfzxjy](https://segmentfault.com/u/hsfzxjy)):
 
 ```python
 names = 'area brand question price'.split()
