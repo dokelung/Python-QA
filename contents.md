@@ -6,6 +6,7 @@
  * [Python 中字串的 bitwise or 怎麼實現?](questions/string/Python中字串的bitwise or怎麼實現.md)
  * [給定一個字串，回傳所有的可能組合](questions/string/給定一個字串，回傳所有的可能組合.md)
  * [如何讓列表所有元素首字母變大寫](questions/string/如何讓列表所有元素首字母變大寫.md)
+ * [轉換一個字串為浮點數會報錯](questions/string/轉換一個字串為浮點數會報錯.md)
 
 * list
  * [遍歷二維串列最外圈](questions/list/遍歷二維串列最外圈.md)
