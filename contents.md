@@ -26,6 +26,9 @@
  * [Python排序問題](questions/sort/Python排序問題.md)
  * [sorted函數中key參數的作用原理](questions/sort/sorted函數中key參數的作用原理.md)
 
+* star expression
+ *  [關於 python * 和 ** 的問題](questions/star/關於python*和**的問題.md)
+
 ## 控制流程與迭代
 
 * if(if/elif/else)
