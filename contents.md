@@ -46,8 +46,9 @@
 * functional programming style(map/filter/reduce)
  * [sum 函數中可以使用條件語句嗎?](questions/fp/sum函數中可以使用條件語句嗎.md)
 
-* error handling
+* error handling(exception)
  * [Python 如何優雅的處理大量異常語句](questions/error/Python如何優雅的處理大量異常語句.md) 
+ * [python 如何捕獲中斷](questions/error/python如何捕獲中斷.md)
 
 ## 物件導向程式設計
 
