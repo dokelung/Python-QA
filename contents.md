@@ -94,6 +94,7 @@
  * [Python 日期的遞增問題](questions/standard_lib/Python日期的遞增問題.md)
  * [一個需要傳入參數的 python 程序如何封裝成可執行文件](questions/standard_lib/一個需要傳入參數的python程序如何封裝成可執行文件.md)
  * [一個結構化顯示文件的腳本，迭代是否有問題](questions/standard_lib/一個結構化顯示文件的腳本，迭代是否有問題.md)
+ * [如何在 python raw_input 中使用 tab 鍵補全](questions/standard_lib/如何在python raw_input中使用tab鍵補全.md)
 
 * pip
  * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md)
