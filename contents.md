@@ -87,6 +87,7 @@
 
 * import
  * [通過哪個函數能查看 Python 文件中匯入了哪些模組](questions/import/通過哪個函數能查看Python文件中匯入了哪些模組.md) 
+ * [deepcopy 無法 import](questions/import/deepcopy無法import.md)
 
 * standard library
  * [os.mkdir 和 os.makedirs 的區別](questions/standard_lib/os.mkdir和os.makedirs的區別.md) 
