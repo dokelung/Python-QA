@@ -2,7 +2,7 @@
 
 ## 問題
 
-如何在 python raw_input 中使用tab 鍵補全？
+如何在 python raw_input 中使用 tab 鍵補全？
 
 問題出自 [segmentfault](https://segmentfault.com/q/1010000006090261/a-1020000006094141), by [caimaoy](https://segmentfault.com/u/caimaoy)
 
