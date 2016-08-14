@@ -134,11 +134,11 @@
  * [燈泡開關問題](questions/algorithm/燈泡開關問題.md)
 
 * math
- * [Python怎麼通過input獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
+ * [Python 怎麼通過 input 獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
 
 ## 大數據與機器學習
 * data mining
- * [python3中有聚類（主要是k-means）的函數或者模塊嗎](questions/data_mining/python3中有聚類（主要是k-means）的函數或者模塊嗎.md) 
+ * [python3 中有聚類（主要是k-means）的函數或者模塊嗎](questions/data_mining/python3中有聚類（主要是k-means）的函數或者模塊嗎.md) 
 
 ## Python 實作與開發環境
 
