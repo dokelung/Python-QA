@@ -29,6 +29,9 @@
 * star expression
  *  [關於 python * 和 ** 的問題](questions/star/關於python*和**的問題.md)
 
+* variable scope(global/local/nonlocal/closure)
+ *  [為什麼這兩段 python lambda 出現不同的結果](questions/scope/為什麼這兩段 python lambda 出現不同的結果.md)
+
 ## 控制流程與迭代
 
 * if(if/elif/else)
