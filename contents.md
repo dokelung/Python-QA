@@ -136,7 +136,7 @@
  * [分群問題](questions/algorithm/分群問題.md)
  * [找出所有組合-笛卡爾積問題](questions/algorithm/找出所有組合-笛卡爾積問題.md)
  * [燈泡開關問題](questions/algorithm/燈泡開關問題.md)
- * [一個數最後一位是 6，移動到首位是原來數的三倍，求這個數](algorithm/一個數最後一位是6，移動到首位是原來數的三倍，求這個數.md)
+ * [一個數最後一位是 6，移動到首位是原來數的三倍，求這個數](questions/algorithm/一個數最後一位是6，移動到首位是原來數的三倍，求這個數.md)
 
 * math
  * [Python 怎麼通過 input 獲取矩陣](questions/math/Python怎麼通過input獲取矩陣.md)
