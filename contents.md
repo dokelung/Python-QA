@@ -102,6 +102,7 @@
  * [一個結構化顯示文件的腳本，迭代是否有問題](questions/standard_lib/一個結構化顯示文件的腳本，迭代是否有問題.md)
  * [如何在 python raw_input 中使用 tab 鍵補全](questions/standard_lib/如何在python raw_input中使用tab鍵補全.md)
  * [交換兩個 shelve objects](questions/standard_lib/交換兩個shelve objects.md)
+ * [Python 獲取文件路徑及文件目錄(__file__ 的使用方法)](questions/standard_lib/Python 獲取文件路徑及文件目錄(__file__ 的使用方法).md)
 
 * pip
  * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md)
