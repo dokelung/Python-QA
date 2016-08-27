@@ -19,18 +19,23 @@
 
 ## 函式
 
+* star expression
+ *  [關於 python * 和 ** 的問題](questions/star/關於python*和**的問題.md)
+
+* variable scope(global/local/nonlocal/closure)
+ *  [為什麼這兩段 python lambda 出現不同的結果](questions/scope/為什麼這兩段 python lambda 出現不同的結果.md)
+
+## 內建函式
+
 * len
  * [怎麼判斷函數或方法多次使用是否需要定義臨時變量](questions/len/怎麼判斷函數或方法多次使用是否需要定義臨時變量.md) 
 
 * sort
  * [Python排序問題](questions/sort/Python排序問題.md)
  * [sorted函數中key參數的作用原理](questions/sort/sorted函數中key參數的作用原理.md)
-
-* star expression
- *  [關於 python * 和 ** 的問題](questions/star/關於python*和**的問題.md)
-
-* variable scope(global/local/nonlocal/closure)
- *  [為什麼這兩段 python lambda 出現不同的結果](questions/scope/為什麼這兩段 python lambda 出現不同的結果.md)
+ 
+* eval
+ * [對 Python 語法字串求值](questions/eval/對Python語法字串求值.md) 
 
 ## 控制流程與迭代
 
