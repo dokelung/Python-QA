@@ -40,12 +40,12 @@
 ## 控制流程與迭代
 
 * if(if/elif/else)
-  * [if 語句的 and or 運算](questions/if/if 語句的 and or 運算.md) 
+  * [if 語句的 and or 運算](questions/if/if%20語句的%20and%20or%20運算.md) 
 
 * iteration(iterable/iterater/comprehension/generator/generator expression)
   * [如何將列表中的元組整個迭代出](questions/iteration/如何將列表中的元組整個迭代出來.md)
   * [一個求質(素)數的編程題](questions/iteration/一個求質(素)數的編程題.md)
-  * [Python 如何合併 list of lists](questions/iteration/Python 如何合併%20list%20of%20lists.md)(待補充)
+  * [Python 如何合併 list of lists](questions/iteration/Python%如何合併%20list%20of%20lists.md)(待補充)
   * [如何從一個複雜的結構中優雅的提取出一列數據](questions/iteration/如何從一個複雜的結構中優雅的提取出一列數據.md)
   * [如何把 tuple 轉成 dictionary](questions/iteration/如何把tuple轉成dictionary.md)
   * [Python 的 list 有沒有類似 js 的 find 方法](questions/iteration/Python的list有沒有類似js的find方法.md)
@@ -64,7 +64,7 @@
   * [自己寫的數據類型使用print無法輸出每個元素](questions/dunder/自己寫的數據類型使用print無法輸出每個元素.md) 
 
 * object(class/object)
-  * [Python 3.x 實例方法的`__func__`屬性](questions/object/Python 3.x%20實例方法的__func__屬性.md)
+  * [Python 3.x 實例方法的`__func__`屬性](questions/object/Python%203.x%20實例方法的__func__屬性.md)
   * [Python 如何通過類方法創建實例方法](questions/object/Python如何通過類方法創建實例方法.md)
   * [Python 的 staticmethod 在什麼情況下用](questions/object/Python的staticmethod在什麼情況下用.md)
 
@@ -107,8 +107,8 @@
   * [一個需要傳入參數的 python 程序如何封裝成可執行文件](questions/standard_lib/一個需要傳入參數的python程序如何封裝成可執行文件.md)
   * [一個結構化顯示文件的腳本，迭代是否有問題](questions/standard_lib/一個結構化顯示文件的腳本，迭代是否有問題.md)
   * [如何在 python raw_input 中使用 tab 鍵補全](questions/standard_lib/如何在python%20raw_input中使用tab鍵補全.md)
-  * [交換兩個 shelve objects](questions/standard_lib/交換兩個shelve objects.md)
-  * [Python 獲取文件路徑及文件目錄(`__file__` 的使用方法)](questions/standard_lib/Python%20獲取文件路徑及文件目錄(__file__ 的使用方法).md)
+  * [交換兩個 shelve objects](questions/standard_lib/交換兩個shelve%20objects.md)
+  * [Python 獲取文件路徑及文件目錄(`__file__` 的使用方法)](questions/standard_lib/Python%20獲取文件路徑及文件目錄(__file__%20的使用方法).md)
 
 * pip
   * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md)
@@ -123,7 +123,7 @@
   * [django 如何一個 url 綁定多個視圖](questions/django/django如何一個url綁定多個視圖.md)
   * [django 模版中變量引用變量被當作字符串處理而不是變量值](questions/django/django模版中變量引用變量被當作字符串處理而不是變量值.md)
   * [網頁根目錄改成子目錄後文件如何調用](questions/django/網頁根目錄改成子目錄後文件如何調用.md)
-  * [Django CSRF verification failed 問題](questions/django/Django CSRF verification failed 問題.md)
+  * [Django CSRF verification failed 問題](questions/django/Django%20CSRF%20verification%20failed%20問題.md)
 
 * flask/jinja
   * [jinja2 macro caller](questions/jinja/jinja2_macro_caller.md) 
@@ -132,7 +132,7 @@
 
 * beautiful soup
   * [刪除 xml 文件的指定標籤](questions/bs/刪除xml文件的指定標籤.md)
-  * [Python 爬蟲 beautifulsoup string 抓取問題](questions/bs/python爬蟲beautifulsoup string抓取問題.md)
+  * [Python 爬蟲 beautifulsoup string 抓取問題](questions/bs/python爬蟲beautifulsoup%20string抓取問題.md)
 
 ## 演算法與科學計算
 
@@ -150,7 +150,7 @@
 
 ## 大數據與機器學習
 * data mining
-  * [python3 中有聚類（主要是k-means）的函數或者模塊嗎](questions/data_mining/python3中有聚類（主要是k-means）的函數或者模塊嗎.md) 
+  * [python3 中有聚類（主要是k-means）的函數或者模塊嗎](questions/data_mining/python3中有聚類（主要是k-means）%20的函數或者模塊嗎.md) 
 
 ## Python 實作與開發環境
 
