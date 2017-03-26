@@ -23,7 +23,7 @@
   *  [關於 python * 和 ** 的問題](questions/star/關於python*和**的問題.md)
 
 * variable scope(global/local/nonlocal/closure)
-  *  [為什麼這兩段 python lambda 出現不同的結果](questions/scope/為什麼這兩段 python lambda 出現不同的結果.md)
+  *  [為什麼這兩段 python lambda 出現不同的結果](questions/scope/為什麼這兩段%20python%20lambda%20出現不同的結果.md)
 
 ## 內建函式
 
@@ -45,11 +45,11 @@
 * iteration(iterable/iterater/comprehension/generator/generator expression)
   * [如何將列表中的元組整個迭代出](questions/iteration/如何將列表中的元組整個迭代出來.md)
   * [一個求質(素)數的編程題](questions/iteration/一個求質(素)數的編程題.md)
-  * [Python 如何合併 list of lists](questions/iteration/Python 如何合併 list of lists.md)(待補充)
+  * [Python 如何合併 list of lists](questions/iteration/Python 如何合併%20list%20of%20lists.md)(待補充)
   * [如何從一個複雜的結構中優雅的提取出一列數據](questions/iteration/如何從一個複雜的結構中優雅的提取出一列數據.md)
   * [如何把 tuple 轉成 dictionary](questions/iteration/如何把tuple轉成dictionary.md)
   * [Python 的 list 有沒有類似 js 的 find 方法](questions/iteration/Python的list有沒有類似js的find方法.md)
-  * [python 中既然生成器表達式比列表解析快, 那為什麼不全部使用生成器表達式](questions/iteration/python中既然生成器表達式比列表解析快, 那為什麼不全部使用生成器表達式.md)
+  * [python 中既然生成器表達式比列表解析快, 那為什麼不全部使用生成器表達式](questions/iteration/python中既然生成器表達式比列表解析快,%20那為什麼不全部使用生成器表達式.md)
 
 * functional programming style(map/filter/reduce)
   * [sum 函數中可以使用條件語句嗎?](questions/fp/sum函數中可以使用條件語句嗎.md)
@@ -64,7 +64,7 @@
   * [自己寫的數據類型使用print無法輸出每個元素](questions/dunder/自己寫的數據類型使用print無法輸出每個元素.md) 
 
 * object(class/object)
-  * [Python 3.x 實例方法的`__func__`屬性](questions/object/Python 3.x 實例方法的__func__屬性.md)
+  * [Python 3.x 實例方法的`__func__`屬性](questions/object/Python 3.x%20實例方法的__func__屬性.md)
   * [Python 如何通過類方法創建實例方法](questions/object/Python如何通過類方法創建實例方法.md)
   * [Python 的 staticmethod 在什麼情況下用](questions/object/Python的staticmethod在什麼情況下用.md)
 
@@ -85,6 +85,7 @@
   * [Python 如何合併批量輸出 json](questions/json/Python如何合併批量輸出json.md)
   * [Python 如何讀取 json 中的數據](questions/json/Python如何讀取json中的數據.md)
   * [不定深層 Json 剖析](questions/json/不定深層Json剖析.md)
+  * [假定有 json 數據多條記錄，如何根據 KEY 的值返回一條記錄](questions/json/假定有json數據多條記錄，如何根據KEY的值返回一條記錄.md)
 
 * cvs
   * [csv 模塊生成 CSV 文件問題(0字頭數字缺失與漢字亂碼)](questions/csv/csv模塊生成CSV文件問題(0字頭數字缺失與漢字亂碼).md)
@@ -101,13 +102,13 @@
   * [os.mkdir 和 os.makedirs 的區別](questions/standard_lib/os.mkdir和os.makedirs的區別.md) 
   * [tk 程序中出現問題](questions/standard_lib/tk程序中出現問題.md)
   * [計算時間差](questions/standard_lib/計算時間差.md)
-  * [Python timeit 測量代碼運行時間問題](questions/standard_lib/Python timeit測量代碼運行時間問題.md)
+  * [Python timeit 測量代碼運行時間問題](questions/standard_lib/Python%20timeit測量代碼運行時間問題.md)
   * [Python 日期的遞增問題](questions/standard_lib/Python日期的遞增問題.md)
   * [一個需要傳入參數的 python 程序如何封裝成可執行文件](questions/standard_lib/一個需要傳入參數的python程序如何封裝成可執行文件.md)
   * [一個結構化顯示文件的腳本，迭代是否有問題](questions/standard_lib/一個結構化顯示文件的腳本，迭代是否有問題.md)
-  * [如何在 python raw_input 中使用 tab 鍵補全](questions/standard_lib/如何在python raw_input中使用tab鍵補全.md)
+  * [如何在 python raw_input 中使用 tab 鍵補全](questions/standard_lib/如何在python%20raw_input中使用tab鍵補全.md)
   * [交換兩個 shelve objects](questions/standard_lib/交換兩個shelve objects.md)
-  * [Python 獲取文件路徑及文件目錄(`__file__` 的使用方法)](questions/standard_lib/Python 獲取文件路徑及文件目錄(__file__ 的使用方法).md)
+  * [Python 獲取文件路徑及文件目錄(`__file__` 的使用方法)](questions/standard_lib/Python%20獲取文件路徑及文件目錄(__file__ 的使用方法).md)
 
 * pip
   * [pip 無法在安裝 pyinstaller](questions/pip/pip無法在安裝pyinstaller.md)
