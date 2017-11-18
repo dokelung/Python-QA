@@ -12,6 +12,7 @@
   * [遍歷二維串列最外圈](questions/list/遍歷二維串列最外圈.md)
   * [list 使用 append 最後為什麼會把前面的元素都修改掉](questions/list/list使用append最後為什麼會把前面的元素都修改掉.md)
   * [python 列表取交集](questions/list/python列表取交集.md)
+  * [python 生成特定列表格式](questions/list/python生成特定列表格式.md)
 
 * collections
   * [會 php 和 Python 的大神進來幫忙轉換一段代碼](questions/collections/會php和python的大神進來幫忙轉換一段代碼.md)
